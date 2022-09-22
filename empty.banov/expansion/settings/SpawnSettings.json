@@ -1,0 +1,257 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "Banovce",
+            "Positions": [
+                [
+                    6903.1201171875,
+					221.08792114257813,
+					2056.844970703125
+                ],
+                [
+                    7244.154296875,
+					253.2360076904297,
+					1125.7989501953126
+                ],
+                [
+                    7656.49951171875,
+					238.7830352783203,
+					1657.101806640625
+                ],
+                [
+                    6409.35888671875,
+					241.3404998779297,
+					377.81103515625
+                ],
+                [
+                    5415.44482421875,
+					193.39625549316407,
+					979.479736328125
+                ],
+                [
+                    7041.2421875,
+					264.8321533203125,
+					598.2654418945313
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Uhrovec",
+            "Positions": [
+                [
+                    11822.892578125,
+					237.54063415527345,
+					3565.71240234375
+                ],
+                [
+                    10854.1484375,
+					229.43988037109376,
+					3563.289794921875
+                ],
+                [
+                    11894.197265625,
+					245.27511596679688,
+					4777.4873046875
+                ],
+                [
+                    11275.9541015625,
+					258.0086669921875,
+					4034.171875
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Dubnicka",
+            "Positions": [
+                [
+                    8934.9287109375,
+					246.26124572753907,
+					6352.23291015625
+                ],
+                [
+                    9512.9365234375,
+					249.9384765625,
+					6783.3837890625
+                ],
+                [
+                    9089.1689453125,
+					272.6981201171875,
+					6961.8349609375
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Sliezska",
+            "Positions": [
+                [
+                    2716.61181640625,
+					235.4279327392578,
+					1721.144775390625
+                ],
+                [
+                    2579.4384765625,
+					247.95620727539063,
+					2214.3779296875
+                ],
+                [
+                    1834.2137451171876,
+					240.89981079101563,
+					2698.237548828125
+                ],
+                [
+                    1894.532958984375,
+					227.8114776611328,
+					1908.484619140625
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Velke",
+            "Positions": [
+                [
+                    768.3514404296875,
+					224.1890106201172,
+					2469.330322265625
+                ],
+                [
+                    1121.013916015625,
+					218.2230682373047,
+					2662.04833984375
+                ],
+                [
+                    849.0204467773438,
+					256.076171875,
+					3359.2822265625
+                ],
+                [
+                    178.16375732421876,
+					242.1426239013672,
+					3369.1787109375
+                ]
+            ],
+            "UseCooldown": 1
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [
+			"BeanieHat_Beige",
+			"BeanieHat_Black",
+			"BeanieHat_Blue",
+			"BeanieHat_Brown",
+			"BeanieHat_Green",
+			"BeanieHat_Grey",
+			"BeanieHat_Pink",
+			"BeanieHat_Red"
+		],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "Shirt_BlueCheck",
+            "Shirt_BlueCheckBright",
+            "Shirt_GreenCheck",
+            "Shirt_RedCheck",
+            "Shirt_WhiteCheck",
+            "Shirt_PlaneBlack"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "CargoPants_Beige",
+			"CargoPants_Blue",
+            "CargoPants_Black",
+            "CargoPants_Green",
+            "CargoPants_Grey"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "WorkingBoots_Beige",
+            "WorkingBoots_Brown",
+            "WorkingBoots_Green",
+            "WorkingBoots_Grey",
+            "WorkingBoots_Yellow"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ]
+    },
+    "EnableSpawnSelection": 1,
+    "SpawnOnTerritory": 0,
+    "StartingGear": {
+        "EnableStartingGear": 1,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Apple",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "RoadFlare",
+                "Quantity": 2,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [
+            {
+                "ClassName": "Heatpack",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "WaterBottle",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Stoneknife",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 1100.0,
+    "SpawnWaterValue": 900.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 1,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 1,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}

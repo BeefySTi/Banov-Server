@@ -1,0 +1,110 @@
+{
+	"m_Version": 12,
+	"DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"IsExchange": 0,
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "GhillieSuit_Tan",
+			"MaxPriceThreshold": 10000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"GhillieSuit_Black",
+				"GhillieSuit_White",
+				"GhillieSuit_Brown",
+				"GhillieSuit_Mossy",
+				"GhillieSuit_Woodland"
+			]
+		},
+		{
+			"ClassName": "GhillieTop_Tan",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"GhillieTop_Black",
+				"GhillieTop_Mossy",
+				"GhillieTop_White",
+				"GhillieTop_Brown",
+				"GhillieTop_Woodland"
+			]
+		},
+		{
+			"ClassName": "GhillieBushrag_Tan",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"GhillieBushrag_Black",
+				"GhillieBushrag_White",
+				"GhillieBushrag_Brown",
+				"GhillieBushrag_Mossy",
+				"GhillieBushrag_Woodland"
+			]
+		},
+		{
+			"ClassName": "GhillieHood_Tan",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"GhillieHood_Black",
+				"GhillieHood_White",
+				"GhillieHood_Brown",
+				"GhillieHood_Woodland",
+				"GhillieHood_Mossy"
+			]
+		},
+		{
+			"ClassName": "GhillieAtt_Tan",
+			"MaxPriceThreshold": 2000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"GhillieAtt_Black",
+				"GhillieAtt_Brown",
+				"GhillieAtt_White",
+				"GhillieAtt_Mossy",
+				"GhillieAtt_Woodland"
+			]
+		},
+		{
+			"ClassName": "INK_CamoNetPoncho",
+			"MaxPriceThreshold": 7500,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": 10.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"Black_CamoNetPoncho",
+				"White_CamoNetPoncho",
+				"Brown_CamoNetPoncho"
+			]
+		}
+	]
+}

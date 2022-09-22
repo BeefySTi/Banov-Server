@@ -1,0 +1,47 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG HELMETS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_tactical_helmet_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": 10,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tactical_helmet_alpine",
+                "MMG_tactical_helmet_dark_woodland",
+                "MMG_tactical_helmet_erdl",
+                "MMG_tactical_helmet_green",
+                "MMG_tactical_helmet_multicam",
+                "MMG_tactical_helmet_multicam_tropic",
+                "MMG_tactical_helmet_multicamblack",
+                "MMG_tactical_helmet_police",
+                "MMG_tactical_helmet_tan",
+                "MMG_tactical_helmet_ucp",
+                "MMG_tactical_helmet_atacs"
+            ]
+        },
+        {
+            "ClassName": "mmg_armored_helmet_black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": 10,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_armored_helmet_green",
+                "mmg_armored_helmet_tan"
+            ]
+        }
+    ]
+}

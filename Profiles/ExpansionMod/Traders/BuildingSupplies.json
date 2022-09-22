@@ -1,0 +1,38 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES",
+    "MinRequiredHumanity": -9999,
+    "MaxRequiredHumanity": 9999,
+    "TraderIcon": "Nails",
+    "Currencies": [
+		"Money_Dollar1",
+		"Money_Dollar2",
+		"Money_Dollar5",
+		"Money_Dollar10",
+		"Money_Dollar20",
+		"Money_Dollar50",
+		"Money_Dollar100"
+    ],
+    "Categories": [
+		"BASE BUILDING PLUS",
+		"MuchStuffPack Storage",
+        "Gardening",
+        "Tools",
+        "Supplies",
+        "Locks",
+		"Knifes",
+        "Containers",
+        "Tents",
+        "Furnishings",
+        "Flags",
+		"Kits",
+        "Navigation",
+        "Electronics",
+        "Lights",
+		"Trashcans",
+		"Raid:2"
+    ],
+    "Items": {
+		"Battery9V": 1
+	}
+}

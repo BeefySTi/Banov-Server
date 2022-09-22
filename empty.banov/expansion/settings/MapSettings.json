@@ -1,0 +1,87 @@
+{
+  "m_Version": 4,
+  "EnableMap": 1,
+  "UseMapOnMapItem": 1,
+  "ShowPlayerPosition": 1,
+  "ShowMapStats": 1,
+  "NeedPenItemForCreateMarker": 0,
+  "NeedGPSItemForCreateMarker": 0,
+  "CanCreateMarker": 1,
+  "CanCreate3DMarker": 1,
+  "CanOpenMapWithKeyBinding": 1,
+  "ShowDistanceOnPersonalMarkers": 1,
+  "EnableHUDGPS": 1,
+  "NeedGPSItemForKeyBinding": 1,
+  "NeedMapItemForKeyBinding": 0,
+  "EnableServerMarkers": 1,
+  "ShowNameOnServerMarkers": 1,
+  "ShowDistanceOnServerMarkers": 1,
+  "ServerMarkers": [
+    {
+      "m_UID": "ServerMarker_Trader_Airfield",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Heli Trader",
+      "m_IconName": "Helicopter",
+      "m_Color": -1,
+      "m_Position": [
+        4928.819824,
+        221.604996,
+        4529.279785
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "ServerMarker_Trader_Horne_Ozorovce",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Traders - Trader",
+      "m_IconName": "Trader",
+      "m_Color": -13710223,
+      "m_Position": [
+        4407.215820,
+        225.310059,
+        3197.568359
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "ServerMarker_BMT",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Black Market Trader",
+      "m_IconName": "Skull 1",
+      "m_Color": -65536,
+      "m_Position": [
+        13845.700195,
+        415.959991,
+        9119.280273
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "ServerMarker_Hunt",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Hunting and Fishing Trader",
+      "m_IconName": "Animal Skull",
+      "m_Color": -9091838,
+      "m_Position": [
+        8060.209961,
+        538.159973,
+        11521.500000
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    }
+  ],
+  "EnableHUDCompass": 1,
+  "NeedCompassItemForHUDCompass": 1,
+  "NeedGPSItemForHUDCompass": 1,
+  "CompassColor": -1,
+  "CreateDeathMarker": 1,
+  "PlayerLocationNotifier": 1
+}

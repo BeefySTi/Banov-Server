@@ -1,0 +1,38 @@
+{
+    "m_Version": 12,
+    "DisplayName": "WEAPON BAGS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CS_WeaponBag_Black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "CS_WeaponBag_Green",
+                "CS_WeaponBag_Tan"
+            ]
+        },
+		{
+            "ClassName": "CS_WeaponBag_D_Black",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "CS_WeaponBag_D_Green",
+                "CS_WeaponBag_D_Tan"
+            ]
+        }
+    ]
+}

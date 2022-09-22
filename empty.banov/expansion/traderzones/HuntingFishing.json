@@ -1,0 +1,41 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Hunting Fishing Trading Zone",
+    "Position": [
+        8060.209961,
+        528.159973,
+        11521.500000
+    ],
+    "Radius": 100.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": 100,
+    "Stock": {
+        "BearPelt": 1,
+        "BearSteakMeat": 1,
+        "BearTrap": 5,
+        "CowPelt": 1,
+        "DeerPelt": 1,
+        "GoatPelt": 1,
+		"GoatSteakMeat": 1,
+		"PigPelt": 1,
+		"PigSteakMeat": 1,
+		"RabbitPelt": 1,
+		"SheepPelt": 1,
+		"SheepSteakMeat": 1,
+		"WildboarPelt": 1,
+		"WolfPelt": 1,
+		"WolfSteakMeat": 1,
+		"BoarSteakMeat": 1,
+		"TannedLeather": 1,
+		"CowSteakMeat": 1,
+		"DeerSteakMeat": 1,
+		"RabbitLegMeat": 1,
+		"ChickenBreastMeat": 1,
+		"FishingRod": 5,
+		"Hook": 5,
+		"Carp": 1,
+		"CarpFilletMeat": 1,
+		"Mackerel": 1,
+		"MackerelFilletMeat": 1
+    }
+}

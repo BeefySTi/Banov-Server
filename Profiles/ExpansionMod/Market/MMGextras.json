@@ -1,0 +1,136 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG EXTRAS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_carbine_black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_carbine_red",
+                "MMG_carbine_green",
+                "MMG_carbine_orange",
+                "MMG_carbine_blue",
+                "MMG_carbine_grey"
+            ]
+        },
+        {
+            "ClassName": "mmg_tac_goggles_red_black",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_tac_goggles_red_green",
+                "mmg_tac_goggles_red_tan"
+            ]
+        },
+        {
+            "ClassName": "MMG_Holster_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_Holster_alpine",
+                "MMG_Holster_dark_woodland",
+                "MMG_Holster_erdl",
+                "MMG_Holster_green",
+                "MMG_Holster_multicam",
+                "MMG_Holster_multicam_tropic",
+                "MMG_Holster_multicamblack",
+                "MMG_Holster_tan",
+                "MMG_Holster_ucp",
+                "MMG_Holster_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_bottle_black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": 10,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_bottle_alpine",
+                "MMG_bottle_dark_woodland",
+                "MMG_bottle_erdl",
+                "MMG_bottle_olive",
+                "MMG_bottle_multicam",
+                "MMG_bottle_multicam_tropic",
+                "MMG_bottle_multicamblack",
+                "MMG_bottle_tan",
+                "MMG_bottle_ucp",
+                "MMG_bottle_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_sheath_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_sheath_alpine",
+                "MMG_sheath_dark_woodland",
+                "MMG_sheath_erdl",
+                "MMG_sheath_olive",
+                "MMG_sheath_multicam",
+                "MMG_sheath_multicam_tropic",
+                "MMG_sheath_multicamblack",
+                "MMG_sheath_tan",
+                "MMG_sheath_ucp",
+                "MMG_sheath_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_headphones_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_headphones_green",
+                "MMG_headphones_tan",
+                "MMG_headphones_ucp"
+            ]
+        },
+        {
+            "ClassName": "mmg_armored_helmet_visor_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": 10,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_armored_helmet_visor_green",
+                "mmg_armored_helmet_visor_tan"
+            ]
+        }
+    ]
+}

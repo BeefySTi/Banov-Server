@@ -1,0 +1,38 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BLACK MARKET SUPPRESSORS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "SNAFU_50bmg_Suppressor_B",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SNAFU_50bmg_Suppressor_M",
+                "SNAFU_50bmg_Suppressor_S",
+                "SNAFU_50bmg_Suppressor_U",
+                "SNAFU_50bmg_Suppressor_W",
+                "SNAFU_408_Suppressor_T"
+            ]
+        },
+        {
+            "ClassName": "SNAFUKivaari_338_Supp",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
