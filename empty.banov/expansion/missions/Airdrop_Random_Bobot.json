@@ -1,0 +1,23 @@
+{
+    "Enabled": 1,
+    "Weight": 315.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Bobot",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "DropLocation": {
+        "x": 1489.3,
+        "z": 10541.7,
+        "Name": "Bobot",
+        "Radius": 100.0
+    },
+    "Loot": [],
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1
+}

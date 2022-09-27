@@ -29,6 +29,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types_keys.xml" type="types" />
 		<file name="types_weaponbag.xml" type="types" />
 		<file name="types_IRP_LR.xml" type="types" />
+		<file name="types_oshkosh.xml" type="types" />
+		<file name="types_breach.xml" type="types" />
 	</ce>
 	<!-- Copy from here... -->
 	<ce folder="expansion_ce">

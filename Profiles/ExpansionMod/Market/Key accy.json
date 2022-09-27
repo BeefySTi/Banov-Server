@@ -1,95 +1,116 @@
 {
-    "m_Version": 12,
-    "DisplayName": "Key Chain Tags",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "IsExchange": 0,
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "MCK_CarKeyTag_Base",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "MCK_CarKeyTag_OlgaBlack",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "MCK_CarKeyTag_OlgaWhite",
-                "MCK_CarKeyTag_OlgaWine"
-            ]
-        },
-        {
-            "ClassName": "MCK_CarKeyTag_AdaBlue",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "MCK_CarKeyTag_AdaWhite",
-                "MCK_CarKeyTag_AdaGreen"
-            ]
-        },
-        {
-            "ClassName": "MCK_CarKeyTag_GunterBlue",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "MCK_CarKeyTag_GunterBlack",
-                "MCK_CarKeyTag_GunterRed"
-            ]
-        },
-        {
-            "ClassName": "MCK_CarKeyTag_SarkaGrey",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "MCK_CarKeyTag_SarkaRed",
-                "MCK_CarKeyTag_SarkaYellow"
-            ]
-        },
-        {
-            "ClassName": "MCK_CarKeyTag_Black",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "MCK_CarKeyTag_Blue",
-                "MCK_CarKeyTag_Green",
-                "MCK_CarKeyTag_Grey",
-                "MCK_CarKeyTag_Red",
-                "MCK_CarKeyTag_White",
-                "MCK_CarKeyTag_Yellow"
-            ]
-        }
-    ]
+	"m_Version": 12,
+	"DisplayName": "Key Chain Tags",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"IsExchange": 0,
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "MCK_CarKeyTag_Base",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "MCK_CarKeyTag_OlgaBlack",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"MCK_CarKeyTag_OlgaWhite",
+				"MCK_CarKeyTag_OlgaWine"
+			]
+		},
+		{
+			"ClassName": "MCK_CarKeyTag_AdaBlue",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"MCK_CarKeyTag_AdaWhite",
+				"MCK_CarKeyTag_AdaGreen"
+			]
+		},
+		{
+			"ClassName": "MCK_CarKeyTag_GunterBlue",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"MCK_CarKeyTag_GunterBlack",
+				"MCK_CarKeyTag_GunterRed"
+			]
+		},
+		{
+			"ClassName": "MCK_CarKeyTag_SarkaGrey",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"MCK_CarKeyTag_SarkaRed",
+				"MCK_CarKeyTag_SarkaYellow"
+			]
+		},
+		{
+			"ClassName": "MCK_CarKeyTag_Black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"MCK_CarKeyTag_Blue",
+				"MCK_CarKeyTag_Green",
+				"MCK_CarKeyTag_Grey",
+				"MCK_CarKeyTag_Red",
+				"MCK_CarKeyTag_White",
+				"MCK_CarKeyTag_Yellow"
+			]
+		},
+		{
+			"ClassName": "expansionkeychain_red",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 1000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 100,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"expansionkeychain_white",
+				"expansionkeychain_black",
+				"expansionkeychain_blue",
+				"expansionkeychain_green",
+				"expansionkeychain_grey",
+				"expansionkeychain_orange",
+				"expansionkeychain_pink",
+				"expansionkeychain_purp",
+				"expansionkeychain_yellow"
+			]
+		}
+	]
 }
