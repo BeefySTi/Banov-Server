@@ -11,7 +11,7 @@
     "PickLockTools": [
         "Lockpick"
     ],
-    "PickLockChancePercent": 20.0,
+    "PickLockChancePercent": 10.0,
     "PickLockTimeSeconds": 180,
     "PickLockToolDamagePercent": 35.0,
     "EnableWindAerodynamics": 0,

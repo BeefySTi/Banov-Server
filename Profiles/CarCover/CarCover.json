@@ -1158,7 +1158,9 @@
             "CarClasses": [
                 "RFFSHeli_Blackhawk",
                 "RFFSHeli_Blackhawk_Cargo",
-                "RFFSHeli_Blackhawk_Woodland"
+                "RFFSHeli_Blackhawk_Woodland",
+				"RFFSHeli_Blackhawk_blackblackhawk",
+				"RFFSHeli_Blackhawk_Budhawk"
             ]
         },
         {
@@ -1174,6 +1176,28 @@
             "CarClasses": [
                 "RFFSHeli_CH53e"
             ]
-        }
+        },
+		{
+            "CoverName": "RFFS_carcover_Bell429",
+            "Offset": 0.5,
+            "CarClasses": [
+                "RFFSHeli_Bell429",
+                "RFFSHeli_Bell429_Police",
+                "RFFSHeli_Bell429_Medic",
+                "RFFSHeli_Bell429_Equ_Gold",
+                "RFFSHeli_Bell429_Equ_Gold_Admin",
+                "RFFSHeli_Bell429_Equ_Medical",
+                "RFFSHeli_Bell429_Equ_Army_Camo",
+                "RFFSHeli_Bell429_Equ_Pink_Camo",
+                "RFFSHeli_Bell429_Equ_Red_Camo",
+                "RFFSHeli_Bell429_Equ_Blue_Camo",
+                "RFFSHeli_Bell429_Equ_Green_Camo",
+                "RFFSHeli_Bell429_Equ_Desert_Camo",
+                "RFFSHeli_Bell429_Equ_Aus_Navy",
+                "RFFSHeli_Bell429_Equ_ARTriangles",
+                "RFFSHeli_Bell429_Equ_Urban_Camo",
+                "RFFSHeli_Bell429_Equ_Rusty"
+            ]
+        }, 
     ]
 }

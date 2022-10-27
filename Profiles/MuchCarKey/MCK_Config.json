@@ -7,7 +7,7 @@
     "Lockpick"
   ],
   "ToolDamage": 50,
-  "ChanceToPickLock": 15,
+  "ChanceToPickLock": 0.15,
   "TimeToPickLock": 200,
   "ActivateExtendedLogs": 1,
   "LifetimeMaintenanceEnabled": 1,

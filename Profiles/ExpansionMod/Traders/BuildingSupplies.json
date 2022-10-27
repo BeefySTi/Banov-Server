@@ -30,7 +30,8 @@
         "Electronics",
         "Lights",
 		"Trashcans",
-		"Raid:2"
+		"Raid:2",
+		"Bricks:2"
     ],
     "Items": {
 		"Battery9V": 1

@@ -14,8 +14,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
 		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
 	</classes>
-	<ce folder="db">
-		   
+	<ce folder="db">  
 		<file name="types_bbp_items.xml" type="types" />
 		<file name="types_bpp.xml" type="types" />
 		<file name="types_mmg.xml" type="types" />
@@ -31,6 +30,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types_IRP_LR.xml" type="types" />
 		<file name="types_oshkosh.xml" type="types" />
 		<file name="types_breach.xml" type="types" />
+		<file name="types_heli_skins.xml" type="types" />
+		<file name="types_FS.xml" type="types" />
+		<file name="types_pizza.xml" type="types" />
 	</ce>
 	<!-- Copy from here... -->
 	<ce folder="expansion_ce">
@@ -38,7 +40,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
-	
 	<defaults>
 		<default name="dyn_radius" value="30" />
 		<default name="dyn_smin" value="0" />
@@ -59,4 +60,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+
+	<ce folder="types_extra">
+	
+		<!-- Types -->
+		<file name="Banov.xml" type="types" />
+	</ce>
 </economycore>

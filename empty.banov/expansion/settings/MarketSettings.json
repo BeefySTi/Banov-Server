@@ -10,7 +10,7 @@
   "ATMPartyLockerEnabled": 1,
   "MaxPartyDepositMoney": 5000000,
   "UseWholeMapForATMPlayerList": 0,
-  "SellPricePercent": 30,
+  "SellPricePercent": 25,
   "NetworkBatchSize": 100,
   "MaxVehicleDistanceToTrader": 300,
   "MaxLargeVehicleDistanceToTrader": 744,
@@ -44,9 +44,9 @@
     },
     {
       "Position": [
-        4955.007813,
-        208.272903,
-        4538.174805
+        4948.097168,
+        208.272919,
+        4566.249512
       ],
       "Orientation": [
         0,

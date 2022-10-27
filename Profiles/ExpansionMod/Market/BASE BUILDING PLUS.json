@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "BBP_Cement",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 50,
       "MinStockThreshold": 50,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "BBP_Mortar_Mix",
-      "MaxPriceThreshold": 5000,
-      "MinPriceThreshold": 5000,
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 50,
       "MinStockThreshold": 50,
@@ -51,9 +51,9 @@
       "Variants": []
     },
     {
-      "ClassName": "BBP_Cement_Mixer",
-      "MaxPriceThreshold": 100000,
-      "MinPriceThreshold": 100000,
+      "ClassName": "BBP_Cement_Mixer_Kit",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 50,
       "MinStockThreshold": 50,

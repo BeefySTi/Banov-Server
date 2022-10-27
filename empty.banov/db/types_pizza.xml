@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Skateboard_Packed">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Skateboard">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="Raz_PizzaOven_Kit">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+        <type name="Raz_Cheese">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Raz_Flour">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Raz_CuttingBoard">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="Raz_PizzaRoller">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type> 
+    <type name="PizzaBox">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type> 
+	<type name="Scara_Oven">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="Raz_Cheese_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_CowSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_WolfSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_GoatSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_FoxSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_SheepSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type> 
+    <type name="Raz_DeerSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_BoarSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_HumanSteakMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_CarpFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_MackerelFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_PikeFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_CodFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_SalmonFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+    <type name="Raz_Mushroom_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type> 
+    <type name="Raz_ChickenBreastMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	
+<!--ADDONS - GEB AND APOKOT -->
+	<type name="Raz_apokot_big_silver_crucian_fillet_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_apokot_pike_fillet_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_CrayfishFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_NorthanpikeFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_LargemouthbassFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_WhitebassFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BlackbassFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_TroutFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BrownTroutFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BrookTroutFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_LakeTroutFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_CutthroatTroutFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_PerchFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_CatfishFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_MinnowFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BluegillFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_SaugerFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BowfinFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_SlimysculpinFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_AngelfishFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_AsianseabassFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BluemarlinFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BonitaFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_CherrysalmonFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_FlatheadmulletFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_LeopardsharkFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_PacificcodFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_RedheadcichlidFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_RoughneckrockFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_SeverumFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_ShrimpFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_BluetangFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_HairtailfishFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_HumpheadwrasseFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_SiamesetigerfishFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_ClamFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_MusselFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_Blackdevilsnail_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_KingcrabFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_JellyfishFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_LobsterFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_GreatwhitesharkFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_AngelsharkFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+	<type name="Raz_geb_YellowfintunaFilletMeat_Pizza">
+        <nominal>0</nominal>
+        <lifetime>57600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="food"/>
+    </type>
+</types>

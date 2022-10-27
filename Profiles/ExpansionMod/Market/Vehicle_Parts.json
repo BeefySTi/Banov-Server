@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "glowplug",
+            "ClassName": "GlowPlug",
             "MaxPriceThreshold": 350,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
@@ -874,26 +874,8 @@
         },
 		{
             "ClassName": "carbattery",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "carradiator",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "sparkplug",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
@@ -1020,7 +1002,7 @@
             "Variants": []
         },
         {
-            "ClassName": "JLTVWheel",
+            "ClassName": "Offroad_02_Wheel",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
             "MaxStockThreshold": 1,
@@ -1029,76 +1011,58 @@
             "Variants": []
         },
         {
-            "ClassName": "JLTVDoorDriver",
+            "ClassName": "Offroad_02_Door_1_1",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-				"JLTVDoorDriverWhite",
-				"JLTVDoorDriverTan"
-			]
+            "Variants": []
         },
         {
-            "ClassName": "JLTVDoorCoDriver",
+            "ClassName": "Offroad_02_Door_1_2",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-				"JLTVDoorCoDriverWhite",
-				"JLTVDoorCoDriverTan"
-			]
+            "Variants": []
         },
         {
-            "ClassName": "JLTVDoorBackLeft",
+            "ClassName": "Offroad_02_Door_2_1",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-				"JLTVDoorBackLeftWhite",
-				"JLTVDoorBackLeftTan"
-			]
+            "Variants": []
         },
         {
-            "ClassName": "JLTVDoorBackRight",
+            "ClassName": "Offroad_02_Door_2_2",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-				"JLTVDoorBackRightWhite",
-				"JLTVDoorBackRightTan"
-			]
+            "Variants": []
         },
         {
-            "ClassName": "JLTVHood",
+            "ClassName": "Offroad_02_Hood",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-				"JLTVHoodWhite",
-				"JLTVHoodTan"
-			]
+            "Variants": []
         },
         {
-            "ClassName": "JLTVRearGuard",
+            "ClassName": "Offroad_02_Trunk",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
-            "Variants": [
-				"JLTVRearGuardWhite",
-				"JLTVRearGuardTan"
-			]
+            "Variants": []
         }
     ]
 }

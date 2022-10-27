@@ -1,396 +1,380 @@
 {
-   "m_Version":3,
-   "EnableStatusTab":1,
-   "EnablePartyTab":1,
-   "EnableServerInfoTab":1,
-   "EnableServerRulesTab":1,
-   "EnableTerritoryTab":1,
-   "EnableBookMenu":1,
-   "CreateBookmarks":0,
-   "RuleCategories":[
-      {
-         "CategoryName":"General",
-         "Rules":[
-            {
-               "RuleParagraph":"1.",
-               "RuleText":"Insults, discrimination, extremist and racist statements or texts are taboo. In general, don't be a dickhead."
-            },
-            {
-               "RuleParagraph":"2.",
-               "RuleText":"We reserve the right to exclude people from the server for any reason, and those who clearly disturb the server harmony."
-            },
-            {
-               "RuleParagraph":"3.",
-               "RuleText":"Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
-            },
-            {
-               "RuleParagraph":"4.",
-               "RuleText":"Items dropped in safe zone are off limits.  In other words, if it is not yours, no touchie!"
-            },
-            {
-               "RuleParagraph":"5.",
-               "RuleText":"The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
-            },
-            {
-               "RuleParagraph":"6.",
-               "RuleText":"There is to be no camping around safe zone."
-            }
-         ]
-      },
-      {
-         "CategoryName":"Base-Building",
-         "Rules":[
-            {
-               "RuleParagraph":"1",
-               "RuleText":"Base-building within 600 meters of the safe zone is not allowed."
-            },
-            {
-               "RuleParagraph":"2",
-               "RuleText":"There is to be no base building in Police, Prison, or medical buildings and no base building within 200 meters from a military zone. Water wells must be accessible by the general population."
-            },
-            {
-               "RuleParagraph":"3",
-               "RuleText":"No skybases, and in general, bases must be realistic and make sense in the real world."
-            },
-            {
-               "RuleParagraph":"4",
-               "RuleText":"Bases MUST contain at least one raidable entrance.  No building a wall and logging off inside."
-            },
-            {
-               "RuleParagraph":"5",
-               "RuleText":"See Discord for comeplete Rule sets.  Failure to abide by all rules may result in removal of bases/object without warning at the discretion of the server staff."
-            }
-         ]
-      },
-      {
-         "CategoryName":"Raiding",
-         "Rules":[
-            {
-               "RuleParagraph":"1",
-               "RuleText":"Bases are raidable with hand tools only, and door raiding only.  Tier 1 is raidable with Splittingaxe, Firefighter Axe and Sledgehammer, or 1 Breaching Charge or 1 Heavy Charge. Tier 2 is raidable with Firefighter Axe and Sledgehammer, or 2 Breaching Charges or 1 Heavy Charge. Tier 3 is raidable with Sledgehammer or 1 Heavy Charge. See #6-7 for recipes for Breaching Charges."
-            },
-            {
-               "RuleParagraph":"2",
-               "RuleText":"Codelocks are raidable with Hacksaw."
-            },
-            {
-               "RuleParagraph":"3",
-               "RuleText":"Safes and tents with code locks are raidable with Hacksaw."
-            },
-            {
-               "RuleParagraph":"4",
-               "RuleText":"There is to be no griefing or harvesting materials from bases. Do not dismantle anything that is not necessary.  Do not dump loot you re leaving behind to despawn."
-            },
-            {
-               "RuleParagraph":"5",
-               "RuleText":"BaseBuildingPlus is the only building system enabled.  Expansion and Vanilla building disabled, aside from Flag Pole creation."
-            },
-            {
-               "RuleParagraph":"6",
-               "RuleText":"Breaching Charge is made in the following manner: Combine 1 Sulfer with 1 Charcoal to get 1 Gun Powder. Combine 5 Gun Powders with a Burlap Sack to make an Explosive.  Combine the Explosive with a Handheld Tranceiver to get a Breaching Charge."
-            },
-            {
-               "RuleParagraph":"7",
-               "RuleText":"Heavy Breaching Charge is made in the following manner: Combine 2 green C4 sticks with Duct Tape. Combine C4 Sticks with Detonator to get C4 without wiring. Combine C4 without wiring with an Electronics Repair Kit to get a Heavy Breaching Charge."
-            }
-         ]
-      },
-      {
-         "CategoryName":"Vehicles",
-         "Rules":[
-            {
-               "RuleParagraph":"1",
-               "RuleText":"Vehicles do not come with a key.  These must be purchased at the Vehicle Parts Trader."
-            },
-            {
-               "RuleParagraph":"2",
-               "RuleText":"Key copies can be made at the grinder on the next to Vehicle Parts Trader."
-            },
-            {
-               "RuleParagraph":"3",
-               "RuleText":"ANYTHING (INCLUDING VEHICLES) LEFT SITTING IN THE SAFE ZONE WILL DESPAWN IN 30 MINUTES.  YOU LEAVE VEHICLES SITTING INSIDE SAFE ZONE AT YOUR OWN RISK."
-            },
-            {
-               "RuleParagraph":"3",
-               "RuleText":"Locked vehicles can be lockpicked with a Lock Pick tool. This is not 100%, with only a small chance of succeeding."
-            },
-            {
-               "RuleParagraph":"4",
-               "RuleText":"Please place vehicles under camo nets when parked long term, even when inside bases.  It reduces the burden on server to reduce lag and prevents despawning of vehicles on server restart. Camo nets can be purchased at the Vehicle Parts Trader. This does not apply to Gunner Truck as camo nets do not work with them."
-            },
-            {
-               "RuleParagraph":"5",
-               "RuleText":"Although vehicle damage is turned off, they can still be damaged by bullets and ruined by driving/flying into water, or trees falling on them. You assume all risk when using vehicles. We all know vehicles are unstable in DayZ."
-            }
-         ]
-      }
-   ],
-   "DisplayServerSettingsInServerInfoTab":1,
-   "ShowHaBStats":1,
-   "SettingCategories":[
-      {
-         "CategoryName":"Map Settings",
-         "Settings":[
-            {
-               "SettingTitle":"Expansion.Settings.Map.NeedGPSItemForKeyBinding",
-               "SettingText":"",
-               "SettingValue":""
-            },
-            {
-               "SettingTitle":"Expansion.Settings.Map.NeedMapItemForKeyBinding",
-               "SettingText":"",
-               "SettingValue":""
-            }
-         ]
-      },
-      {
-         "CategoryName":"Party Settings",
-         "Settings":[
-            {
-               "SettingTitle":"Expansion.Settings.Party.MaxMembersInParty",
-               "SettingText":"",
-               "SettingValue":""
-            },
-            {
-               "SettingTitle":"Expansion.Settings.Party.UseWholeMapForInviteList",
-               "SettingText":"",
-               "SettingValue":""
-            }
-         ]
-      },
-      {
-         "CategoryName":"Territory Settings",
-         "Settings":[
-            {
-               "SettingTitle":"Expansion.Settings.Territory.TerritorySize",
-               "SettingText":"",
-               "SettingValue":""
-            },
-            {
-               "SettingTitle":"Expansion.Settings.Territory.UseWholeMapForInviteList",
-               "SettingText":"",
-               "SettingValue":""
-            }
-         ]
-      }
-   ],
-   "Links":[
-      {
-         "Name":"Homepage",
-         "URL":"https://www.google.com/",
-         "IconName":"Homepage",
-         "IconColor":-14473430
-      },
-      {
-         "Name":"Feedback",
-         "URL":"https://exp.thurston.pw/",
-         "IconName":"Forums",
-         "IconColor":-14473430
-      },
-      {
-         "Name":"Discord",
-         "URL":"https://discord.gg/bMd2kgxZnR",
-         "IconName":"Discord",
-         "IconColor":-9270822
-      },
-      {
-         "Name":"Patreon",
-         "URL":"https://www.patreon.com/dayzexpansion",
-         "IconName":"Patreon",
-         "IconColor":-432044
-      },
-      {
-         "Name":"Steam",
-         "URL":"https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
-         "IconName":"Steam",
-         "IconColor":-14006434
-      },
-      {
-         "Name":"Reddit",
-         "URL":"https://www.reddit.com/r/PushingDayZies/",
-         "IconName":"Reddit",
-         "IconColor":-12386303
-      },
-      {
-         "Name":"TikTok",
-         "URL":"",
-         "IconName":"Radiation",
-         "IconColor":-16777216
-      },
-      {
-         "Name":"YouTube",
-         "URL":"https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
-         "IconName":"YouTube",
-         "IconColor":-65536
-      },
-      {
-         "Name":"Twitter",
-         "URL":"https://twitter.com/DayZExpansion",
-         "IconName":"Twitter",
-         "IconColor":-14835214
-      }
-   ],
-   "Descriptions":[
-      {
-         "CategoryName":"General Info",
-         "Descriptions":[
-            {
-               "DescriptionText":"Server owner is BeefySTi."
-            },
-            {
-               "DescriptionText":"Admin Team is Alzbob, JakusMalius, Magick, The Stitties, and Spookey Slayer."
-            },
-            {
-               "DescriptionText":"The best way to get help from admin team is to join the discord and create a ticket. Please have screenshots/video capture available if ticket requires evidence."
-            }
-         ]
-      }
-   ],
-   "CraftingCategories":[
-      {
-         "CategoryName":"Accessories",
-         "Results":[
-            "armband_",
-            "armband_white"
-         ]
-      },
-      {
-         "CategoryName":"Backpacks",
-         "Results":[
-            "courierbag",
-            "furcourierbag",
-            "furimprovisedbag",
-            "improvisedbag",
-            "leathersack_brown"
-         ]
-      },
-      {
-         "CategoryName":"Base-Building",
-         "Results":[
-            "expansionbarbedwirekit",
-            "fencekit",
-            "expansionfloorkit",
-            "expansionhelipadkit",
-            "expansionhescokit",
-            "expansionrampkit",
-            "shelterkit",
-            "expansionstairkit",
-            "territoryflagkit",
-            "expansionwallkit",
-            "watchtowerkit"
-         ]
-      },
-      {
-         "CategoryName":"Camouflage",
-         "Results":[
-            "camonet",
-            "ghillieatt_tan",
-            "ghillieatt_mossy",
-            "ghillieatt_woodland",
-            "ghilliebushrag_tan",
-            "ghilliebushrag_mossy",
-            "ghilliebushrag_woodland",
-            "ghilliehood_tan",
-            "ghilliehood_mossy",
-            "ghilliehood_woodland",
-            "ghilliesuit_tan",
-            "ghilliesuit_mossy",
-            "ghilliesuit_woodland",
-            "ghillietop_tan",
-            "ghillietop_mossy",
-            "ghillietop_woodland"
-         ]
-      },
-      {
-         "CategoryName":"Cooking",
-         "Results":[
-            "fireplace",
-            "firewood",
-            "handdrillkit"
-         ]
-      },
-      {
-         "CategoryName":"Fishing",
-         "Results":[
-            "bait",
-            "bonebait",
-            "bonehook",
-            "improvisedfishingrod"
-         ]
-      },
-      {
-         "CategoryName":"Food",
-         "Results":[
-            "carpfilletmeat",
-            "mackerelfilletmeat",
-            "expansionmilkbottle",
-            "potato",
-            "slicedpumpkin"
-         ]
-      },
-      {
-         "CategoryName":"Horticulture",
-         "Results":[
-            "pepperseeds",
-            "pumpkinseeds",
-            "tomatoseeds",
-            "zucchiniseeds"
-         ]
-      },
-      {
-         "CategoryName":"Lights",
-         "Results":[
-            "longtorch",
-            "torch"
-         ]
-      },
-      {
-         "CategoryName":"Medical Supplies",
-         "Results":[
-            "bloodbagiv",
-            "salinebagiv",
-            "splint"
-         ]
-      },
-      {
-         "CategoryName":"Melee Weapons",
-         "Results":[
-            "nailedbaseballbat",
-            "stoneknife"
-         ]
-      },
-      {
-         "CategoryName":"Storage",
-         "Results":[
-            "woodencrate"
-         ]
-      },
-      {
-         "CategoryName":"Supplies",
-         "Results":[
-            "boarpelt",
-            "burlapsack",
-            "burlapstrip",
-            "longwoodenstick",
-            "expansionlumber1",
-            "expansionlumber1_5",
-            "expansionlumber3",
-            "nails",
-            "netting",
-            "rag",
-            "rope",
-            "sharpwoodenstick",
-            "smallstone",
-            "tannedleather",
-            "woodenplank",
-            "woodenstick"
-         ]
-      },
-      {
-         "CategoryName":"Weapon Attachments",
-         "Results":[
-            "improvisedsuppressor"
-         ]
-      }
-   ]
+  "m_Version": 3,
+  "EnableStatusTab": 1,
+  "EnablePartyTab": 1,
+  "EnableServerInfoTab": 1,
+  "EnableServerRulesTab": 1,
+  "EnableTerritoryTab": 1,
+  "EnableBookMenu": 1,
+  "CreateBookmarks": 1,
+  "RuleCategories": [
+    {
+      "CategoryName": "General",
+      "Rules": [
+        {
+          "RuleParagraph": "1.",
+          "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo. In general, don't be a dickhead."
+        },
+        {
+          "RuleParagraph": "2.",
+          "RuleText": "We reserve the right to exclude people from the server for any reason, and those who clearly disturb the server harmony."
+        },
+        {
+          "RuleParagraph": "3.",
+          "RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
+        },
+        {
+          "RuleParagraph": "4.",
+          "RuleText": "Items dropped in safe zone are off limits.  In other words, if it is not yours, no touchie!"
+        },
+        {
+          "RuleParagraph": "5.",
+          "RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent BAN."
+        },
+        {
+          "RuleParagraph": "6.",
+          "RuleText": "There is to be no camping around safe zone for kills."
+        }
+      ]
+    },
+    {
+      "CategoryName": "Base-Building",
+      "Rules": [
+        {
+          "RuleParagraph": "1",
+          "RuleText": "Base-building within 600 meters of the safe zone is not allowed."
+        },
+        {
+          "RuleParagraph": "2",
+          "RuleText": "There is to be no base building in Police, Prison, or Medical buildings and no base building within 200 meters from a Military zone. Water wells must be accessible by the general population."
+        },
+        {
+          "RuleParagraph": "3",
+          "RuleText": "No skybases, and in general, bases must be realistic and make sense in the real world."
+        },
+        {
+          "RuleParagraph": "4",
+          "RuleText": "Bases MUST contain at least one raidable entrance.  No building a wall and logging off inside."
+        },
+        {
+          "RuleParagraph": "5",
+          "RuleText": "Bases are allowed a max of 10 doors, including garage doors and roof hatches."
+        },
+        {
+          "RuleParagraph": "6",
+          "RuleText": "See Discord for comeplete Rule sets.  Failure to abide by all rules may result in removal of bases/object without warning at the discretion of the server staff."
+        },
+        {
+          "RuleParagraph": "7",
+          "RuleText": "For more information on Base Building Plus mod, please see the LINKS in this book for the BBP wiki link."
+        },
+        {
+          "RuleParagraph": "8",
+          "RuleText": "For more information on CannanisPlus V3, please see LINKS in this book for a YouTube link."
+        }
+      ]
+    },
+    {
+      "CategoryName": "Raiding",
+      "Rules": [
+        {
+          "RuleParagraph": "1",
+          "RuleText": "Bases are raidable by door raiding only and only using specific hand tools or breaching charges.  Tier 1 is raidable with Splittingaxe, Firefighter Axe and Sledgehammer, or 1 Breaching Charge or 1 Heavy Charge. Tier 2 is raidable with Firefighter Axe and Sledgehammer, or 2 Breaching Charges or 1 Heavy Charge. Tier 3 is raidable with Sledgehammer or 1 Heavy Charge. See #6-7 for recipes for Breaching Charges."
+        },
+        {
+          "RuleParagraph": "2",
+          "RuleText": "Codelocks are raidable with Hacksaw."
+        },
+        {
+          "RuleParagraph": "3",
+          "RuleText": "Safes and tents with code locks are raidable with Hacksaw."
+        },
+        {
+          "RuleParagraph": "4",
+          "RuleText": "There is to be no griefing or harvesting materials from bases. Do not dismantle anything that is not necessary.  Do not dump loot you are leaving behind to despawn. Flags/flagpoles are OFF LIMITS and not to be touched."
+        },
+        {
+          "RuleParagraph": "5",
+          "RuleText": "BaseBuildingPlus is the only building system enabled.  Expansion and Vanilla building disabled, aside from Flag Pole creation to create a Territory.  See LINKS in this book for the the link to BBP wiki."
+        },
+        {
+          "RuleParagraph": "6",
+          "RuleText": "Breaching Charge is made in the following manner: Combine 1 Sulfer with 1 Charcoal to get 1 Gun Powder. Combine 5 Gun Powders with a Burlap Sack to make an Explosive.  Combine the Explosive with a Handheld Tranceiver to get a Breaching Charge."
+        },
+        {
+          "RuleParagraph": "7",
+          "RuleText": "Heavy Breaching Charge is made in the following manner: Combine 2 green C4 sticks with Duct Tape. Combine C4 Sticks with Detonator to get C4 without wiring. Combine C4 without wiring with an Electronics Repair Kit to get a Heavy Breaching Charge."
+        }
+      ]
+    },
+    {
+      "CategoryName": "Vehicles",
+      "Rules": [
+        {
+          "RuleParagraph": "1",
+          "RuleText": "Vehicles do not come with a key.  These must be purchased at the Vehicle Parts Trader."
+        },
+        {
+          "RuleParagraph": "2",
+          "RuleText": "Key copies can be made at the grinder on the table next to Vehicle Parts Trader."
+        },
+        {
+          "RuleParagraph": "3",
+          "RuleText": "ANYTHING (INCLUDING VEHICLES) LEFT SITTING IN THE SAFE ZONE WILL DESPAWN IN 30 MINUTES.  YOU LEAVE VEHICLES SITTING INSIDE SAFE ZONE AT YOUR OWN RISK."
+        },
+        {
+          "RuleParagraph": "3",
+          "RuleText": "Locked vehicles can be lockpicked with a Lock Pick tool and stolen. This is not 100%, with only a small chance of succeeding, and you will not be able to assign a new key to it.  DO NOT UNCOVER A VEHICLE THAT IS NOT YOURS AND LEAVE IT UNCOVERED TO DESPAWN. THIS IS GRIEFING AND YOU WILL BE REQUIRED TO PAY FOR A NEW VEHICLE IN SOME WAY."
+        },
+        {
+          "RuleParagraph": "4",
+          "RuleText": "Please place vehicles under camo nets when parked long term, even when inside bases.  It reduces the burden on server to reduce lag and prevents despawning of vehicles on server restart. Camo nets can be purchased at the Vehicle Parts Trader. This does not apply to Gunner Truck as camo nets do not work with them. If you fail to cover a vehicle for server restart and it despawns, that is the risk you take."
+        },
+        {
+          "RuleParagraph": "5",
+          "RuleText": "Although vehicle damage is turned off, they can still be damaged by bullets and ruined by driving/flying into water, or trees falling on them. You assume all risk when using vehicles. We all know vehicles are unstable in DayZ."
+        }
+      ]
+    }
+  ],
+  "DisplayServerSettingsInServerInfoTab": 1,
+  "ShowHaBStats": 1,
+  "SettingCategories": [
+    {
+      "CategoryName": "Map Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Party Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Territory Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    }
+  ],
+  "Links": [
+    {
+      "Name": "Base Building Plus Wiki",
+      "URL": "https://basebuildingplus.fandom.com/wiki/Building_Recipes",
+      "IconName": "Hammer",
+      "IconColor": -14473430
+    },
+    {
+      "Name": "Discord",
+      "URL": "https://discord.gg/bMd2kgxZnR",
+      "IconName": "Discord",
+      "IconColor": -9270822
+    },
+    {
+      "Name": "Reddit",
+      "URL": "https://www.reddit.com/r/PushingDayZies/",
+      "IconName": "Reddit",
+      "IconColor": -12386303
+    },
+    {
+      "Name": "TikTok",
+      "URL": "",
+      "IconName": "Radiation",
+      "IconColor": -16777216
+    },
+    {
+      "Name": "YouTube",
+      "URL": "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
+      "IconName": "YouTube",
+      "IconColor": -65536
+    },
+    {
+      "Name": "CannabisPlus v.30 instructions",
+      "URL": "https://www.youtube.com/watch?v=CKSJ6VW0k3A",
+      "IconName": "Herbal Medicine",
+      "IconColor": -14835214
+    }
+  ],
+  "Descriptions": [
+    {
+      "CategoryName": "General Info",
+      "Descriptions": [
+        {
+          "DescriptionText": "Server owner is BeefySTi."
+        },
+        {
+          "DescriptionText": "Admin Team is Alzbob, Magick, The Stitties, and SpookySlayer."
+        },
+        {
+          "DescriptionText": "The best way to get help from admin team is to join the discord and create a TICKET. Please have screenshots/video capture available if ticket requires evidence."
+        }
+      ]
+    }
+  ],
+  "CraftingCategories": [
+    {
+      "CategoryName": "Accessories",
+      "Results": [
+        "armband_",
+        "armband_white"
+      ]
+    },
+    {
+      "CategoryName": "Backpacks",
+      "Results": [
+        "courierbag",
+        "furcourierbag",
+        "furimprovisedbag",
+        "improvisedbag",
+        "leathersack_brown"
+      ]
+    },
+    {
+      "CategoryName": "Base-Building",
+      "Results": [
+        "territoryflagkit"
+      ]
+    },
+    {
+      "CategoryName": "Camouflage",
+      "Results": [
+        "camonet",
+        "ghillieatt_tan",
+        "ghillieatt_mossy",
+        "ghillieatt_woodland",
+        "ghilliebushrag_tan",
+        "ghilliebushrag_mossy",
+        "ghilliebushrag_woodland",
+        "ghilliehood_tan",
+        "ghilliehood_mossy",
+        "ghilliehood_woodland",
+        "ghilliesuit_tan",
+        "ghilliesuit_mossy",
+        "ghilliesuit_woodland",
+        "ghillietop_tan",
+        "ghillietop_mossy",
+        "ghillietop_woodland"
+      ]
+    },
+    {
+      "CategoryName": "Cooking",
+      "Results": [
+        "fireplace",
+        "firewood",
+        "handdrillkit"
+      ]
+    },
+    {
+      "CategoryName": "Fishing",
+      "Results": [
+        "bait",
+        "bonebait",
+        "bonehook",
+        "improvisedfishingrod"
+      ]
+    },
+    {
+      "CategoryName": "Food",
+      "Results": [
+        "carpfilletmeat",
+        "mackerelfilletmeat",
+        "expansionmilkbottle",
+        "potato",
+        "slicedpumpkin"
+      ]
+    },
+    {
+      "CategoryName": "Horticulture",
+      "Results": [
+        "pepperseeds",
+        "pumpkinseeds",
+        "tomatoseeds",
+        "zucchiniseeds"
+      ]
+    },
+    {
+      "CategoryName": "Lights",
+      "Results": [
+        "longtorch",
+        "torch"
+      ]
+    },
+    {
+      "CategoryName": "Medical Supplies",
+      "Results": [
+        "bloodbagiv",
+        "salinebagiv",
+        "splint"
+      ]
+    },
+    {
+      "CategoryName": "Melee Weapons",
+      "Results": [
+        "nailedbaseballbat",
+        "stoneknife"
+      ]
+    },
+    {
+      "CategoryName": "Storage",
+      "Results": [
+        "woodencrate"
+      ]
+    },
+    {
+      "CategoryName": "Supplies",
+      "Results": [
+        "boarpelt",
+        "burlapsack",
+        "burlapstrip",
+        "longwoodenstick",
+        "expansionlumber1",
+        "expansionlumber1_5",
+        "expansionlumber3",
+        "nails",
+        "netting",
+        "rag",
+        "rope",
+        "sharpwoodenstick",
+        "smallstone",
+        "tannedleather",
+        "woodenplank",
+        "woodenstick"
+      ]
+    },
+    {
+      "CategoryName": "Weapon Attachments",
+      "Results": [
+        "improvisedsuppressor"
+      ]
+    }
+  ]
 }

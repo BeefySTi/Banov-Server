@@ -192,6 +192,72 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "CP_Bagger",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_PlasticWrapper",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_EmptyBag",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_PlasticRoll",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_Pouch",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_RollingPapers",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

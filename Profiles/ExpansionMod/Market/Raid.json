@@ -1,109 +1,120 @@
 {
-    "m_Version": 12,
-    "DisplayName": "RAID TOOLS",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "IsExchange": 0,
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "hacksaw",
-            "MaxPriceThreshold": 75000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "lockpick",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 25000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "sledgehammer",
-            "MaxPriceThreshold": 75000,
-            "MinPriceThreshold": 75000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "woodaxe",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 25000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "firefighteraxe",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "HDSN_Sulfur",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 25000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "HDSN_Charcoal",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 25000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "HDSN_Detonator",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 100000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "HDSN_C4Stick",
-            "MaxPriceThreshold": 150000,
-            "MinPriceThreshold": 150000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+  "m_Version": 12,
+  "DisplayName": "RAID TOOLS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "hacksaw",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "lockpick",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sledgehammer",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "woodaxe",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "firefighteraxe",
+      "MaxPriceThreshold": 60000,
+      "MinPriceThreshold": 60000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HDSN_Sulfur",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HDSN_Charcoal",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HDSN_Detonator",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HDSN_C4Stick",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 200000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionPropaneTorch",
+      "MaxPriceThreshold": 1000000,
+      "MinPriceThreshold": 1000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
 }
