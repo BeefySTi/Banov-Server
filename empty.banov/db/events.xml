@@ -1130,7 +1130,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -1161,7 +1161,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="6" type="FS_ZMB_Stalker"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_ZMB_Stalker_Top"/>
@@ -1185,7 +1185,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_SlepDog_Bronza"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_SlepDog_red"/>
@@ -1210,7 +1210,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_bandit"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_Svoboda"/>
@@ -1238,7 +1238,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_Ruined_Svoboda"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_Ruined_Monolit"/>
@@ -1264,7 +1264,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Eco01_Zombie"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_Eco01_Zombie_Pro"/>
@@ -1290,7 +1290,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Polter_Invz"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Plot_Mob_v1"/>
@@ -1316,7 +1316,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Cat_Baun_Green"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Cat_Baun_Light"/>
@@ -1340,7 +1340,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_KrovososType2_Albinos"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_KrovososType2_Brown"/>
@@ -1362,7 +1362,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_SidorCap_ZMB"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Sidor_ZMB"/>
@@ -1381,7 +1381,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -1412,7 +1412,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_bandit"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_dolg"/>
@@ -1446,7 +1446,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_HIMERA_v2"/>
 			<child lootmax="5" lootmin="3" max="0" min="6" type="FS_HIMERA_v3"/>
@@ -1473,7 +1473,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_KrovoSOS_Blood"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_KrovoSOS"/>
@@ -1504,7 +1504,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -1531,7 +1531,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_ZMB_Stalker_Brain"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Snork"/>
@@ -1559,7 +1559,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_dolg"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_bandit"/>
@@ -1592,7 +1592,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_HIMERA_v1"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_HIMERA_v2"/>
@@ -1625,7 +1625,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -1656,7 +1656,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="6" type="FS_ZMB_Stalker"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_ZMB_Stalker_Top"/>
@@ -1680,7 +1680,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_SlepDog_Bronza"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_SlepDog_red"/>
@@ -1705,7 +1705,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_bandit"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_Svoboda"/>
@@ -1733,7 +1733,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_Ruined_Svoboda"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_Ruined_Monolit"/>
@@ -1759,7 +1759,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Eco01_Zombie"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_Eco01_Zombie_Pro"/>
@@ -1785,7 +1785,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Polter_Invz"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Plot_Mob_v1"/>
@@ -1811,7 +1811,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Cat_Baun_Green"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Cat_Baun_Light"/>
@@ -1835,7 +1835,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_KrovososType2_Albinos"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_KrovososType2_Brown"/>
@@ -1857,7 +1857,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_SidorCap_ZMB"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Sidor_ZMB"/>
@@ -1876,7 +1876,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -1907,7 +1907,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_bandit"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_dolg"/>
@@ -1941,7 +1941,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_HIMERA_v2"/>
 			<child lootmax="5" lootmin="3" max="0" min="6" type="FS_HIMERA_v3"/>
@@ -1968,7 +1968,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_KrovoSOS_Blood"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_KrovoSOS"/>
@@ -1999,7 +1999,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -2026,7 +2026,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_ZMB_Stalker_Brain"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Snork"/>
@@ -2054,7 +2054,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_dolg"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_bandit"/>
@@ -2087,7 +2087,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_HIMERA_v1"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_HIMERA_v2"/>
@@ -2120,7 +2120,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -2151,7 +2151,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="6" type="FS_ZMB_Stalker"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_ZMB_Stalker_Top"/>
@@ -2175,7 +2175,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_SlepDog_Bronza"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_SlepDog_red"/>
@@ -2200,7 +2200,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_bandit"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_Svoboda"/>
@@ -2228,7 +2228,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_Ruined_Svoboda"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_Ruined_Monolit"/>
@@ -2254,7 +2254,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Eco01_Zombie"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_Eco01_Zombie_Pro"/>
@@ -2280,7 +2280,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Polter_Invz"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Plot_Mob_v1"/>
@@ -2306,7 +2306,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Cat_Baun_Green"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Cat_Baun_Light"/>
@@ -2330,7 +2330,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_KrovososType2_Albinos"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_KrovososType2_Brown"/>
@@ -2352,7 +2352,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_SidorCap_ZMB"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_Sidor_ZMB"/>
@@ -2371,7 +2371,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -2402,7 +2402,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_bandit"/>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_dolg"/>
@@ -2436,7 +2436,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_HIMERA_v2"/>
 			<child lootmax="5" lootmin="3" max="0" min="6" type="FS_HIMERA_v3"/>
@@ -2463,7 +2463,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_KrovoSOS_Blood"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_KrovoSOS"/>
@@ -2494,7 +2494,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_1"/>
 			<child lootmax="5" lootmin="3" max="0" min="20" type="FS_Zombie_2"/>
@@ -2521,7 +2521,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_ZMB_Stalker_Brain"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_Snork"/>
@@ -2549,7 +2549,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_EXO_ZMB_pristine_dolg"/>
 			<child lootmax="5" lootmin="3" max="0" min="5" type="FS_EXO_ZMB_pristine_bandit"/>
@@ -2582,7 +2582,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
 			<child lootmax="5" lootmin="3" max="0" min="2" type="FS_HIMERA_v1"/>
 			<child lootmax="5" lootmin="3" max="0" min="3" type="FS_HIMERA_v2"/>
